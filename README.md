@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Command used: npx create-react-app ./
+using tailwindcss - https://tailwindcss.com/docs/installation/using-postcss
+
+
 ## Available Scripts
 
 In the project directory, you can run:
